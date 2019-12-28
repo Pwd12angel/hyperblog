@@ -6,4 +6,4 @@ edad 20
 
 nacionalidad mexicana 
 
-hoy hablaremos de su vida 
+hoy hablaremos de su vida en general 
